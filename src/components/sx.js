@@ -1,4 +1,4 @@
-module.exports = {
+const sx = {
     button: {
         fontWeight: "bold",
         padding: "1vmin",
@@ -134,3 +134,5 @@ module.exports = {
         backgroundColor: '#ffccaa',
     }
 }
+
+export default sx
